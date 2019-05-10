@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android_DeepLinking</string>
+
+    <string name="toolbar_name">Android DeepLinking</string>
+    <string name="hint_home">This is an example for Android Deep Linking</string>
+    <string name="hint_browser">Go to your mobile\'s browser and search for Example Domain and then click that and the link is </string>
+</resources>
